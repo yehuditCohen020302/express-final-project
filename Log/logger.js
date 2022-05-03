@@ -1,5 +1,8 @@
 const winston = require('winston');
 const winstonDB= require('winston-mongodb');
+const dotenv = require('dotenv');
+dotenv.config();
+
 
 const logConfiguration = {
     transports: [
@@ -16,7 +19,7 @@ const logConfiguration = {
         }),
         new winston.transports.MongoDB({
             level:'error',
-            db:'mongodb://srv1:27017/323812081yehudit&chani',
+            db:process.env.CONNECTION_STRING,
             options: {
                 useUnifiedTopology: true
             },
@@ -34,3 +37,4 @@ const logConfiguration = {
 }
 const logger = winston.createLogger(logConfiguration);
 module.exports = logger;
+// 'mongodb://srv1:27017/323812081yehudit&chani'

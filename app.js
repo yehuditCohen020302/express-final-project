@@ -35,6 +35,11 @@ app.use((req,res) => {
     
     res.status(404).sendFile(path.join( __dirname, './Static/html/404.html'));
 })
+// const nDate = new Date().toLocaleString('en-US', {
+//     timeZone: 'Israel'
+//   });
+  
+//   console.log(nDate);
 
 logger.error('hjhjhjs');
 app.listen(port, () => logger.info(`Hello server, we are running on ${port}`))
