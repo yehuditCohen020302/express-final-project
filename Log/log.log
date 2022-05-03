@@ -1,0 +1,582 @@
+{"level":"error","message":"Hello server, we are running on 3009"}
+error: 04-25-2022 12:25:49:  
+error: 04-25-2022 12:29:19:  
+error: 04-25-2022 12:30:21: hjhjhjs 
+error: 04-25-2022 12:31:09:;( s hjhjhjs 
+error: 04-25-2022 12:31:29: hjhjhjs 
+error: 04-25-2022 13:54:13: hjhjhjs 
+error: 04-25-2022 14:03:59: hjhjhjs 
+error: 04-25-2022 14:05:45: hjhjhjs 
+error: 04-25-2022 14:06:28: hjhjhjs 
+error: 04-25-2022 14:06:47: hjhjhjs 
+error: 04-25-2022 14:09:43: hjhjhjs 
+error: 04-25-2022 14:25:21: hjhjhjs 
+error: 04-25-2022 14:32:28: hjhjhjs 
+error: 04-25-2022 14:35:06: hjhjhjs 
+error: 04-25-2022 14:37:04: hjhjhjs 
+error: 04-25-2022 14:39:27: hjhjhjs 
+error: 04-25-2022 14:39:54: hjhjhjs 
+error: 04-25-2022 14:40:38: hjhjhjs 
+error: 04-25-2022 14:43:14: hjhjhjs 
+error: 04-25-2022 14:48:06: hjhjhjs 
+error: 04-25-2022 14:48:44: hjhjhjs 
+error: 04-25-2022 14:58:48: hjhjhjs 
+error: 04-25-2022 15:01:53: hjhjhjs 
+error: 04-25-2022 15:02:09: hjhjhjs 
+error: 04-25-2022 15:11:08: hjhjhjs 
+error: 04-25-2022 15:11:15: user validation failed: password: Path `password` is required. 
+error: 04-25-2022 15:12:14: user validation failed: password: Path `password` is required. '
+error: 04-25-2022 15:14:11: hjhjhjs 
+error: 04-25-2022 15:20:31: hjhjhjs 
+error: 04-25-2022 15:20:53: hjhjhjs 
+error: 04-25-2022 15:21:09: hjhjhjs 
+error: 04-25-2022 15:22:27: hjhjhjs 
+error: 04-25-2022 15:23:13: hjhjhjs 
+error: 04-25-2022 15:24:00: hjhjhjs 
+error: 04-25-2022 15:24:52: hjhjhjs 
+error: 04-25-2022 15:25:31: hjhjhjs 
+error: 04-25-2022 15:27:41: hjhjhjs 
+error: 04-25-2022 15:28:00: hjhjhjs 
+error: 04-25-2022 15:30:12: hjhjhjs 
+error: 04-26-2022 12:37:41: hjhjhjs 
+error: 04-26-2022 12:40:03: hjhjhjs 
+error: 04-26-2022 12:40:37: hjhjhjs 
+error: 04-26-2022 12:43:21: hjhjhjs 
+error: 04-26-2022 12:45:40: hjhjhjs 
+error: 04-26-2022 12:46:36: hjhjhjs 
+error: 04-26-2022 12:49:50: hjhjhjs 
+error: 04-26-2022 12:52:41: hjhjhjs 
+error: 04-26-2022 12:53:03: hjhjhjs 
+error: 04-26-2022 12:54:49: hjhjhjs 
+error: 04-26-2022 12:55:08: hjhjhjs 
+error: 04-26-2022 12:57:28: hjhjhjs 
+error: 04-26-2022 12:58:39: hjhjhjs 
+error: 04-26-2022 12:59:15: hjhjhjs 
+error: 04-26-2022 12:59:48: hjhjhjs 
+error: 04-26-2022 13:00:04: hjhjhjs 
+error: 04-26-2022 13:00:57: hjhjhjs 
+error: 04-26-2022 13:03:04: hjhjhjs 
+error: 04-26-2022 13:03:54: hjhjhjs 
+error: 04-26-2022 13:05:24: hjhjhjs 
+error: 04-26-2022 13:06:18: hjhjhjs 
+error: 04-26-2022 13:09:53: Cast to ObjectId failed for value "/624470cc1ea60c418d477fd9" (type string) at path "userId" 
+error: 04-26-2022 13:14:00: hjhjhjs 
+error: 04-26-2022 13:14:58: hjhjhjs 
+error: 04-26-2022 13:15:18: hjhjhjs 
+error: 04-26-2022 13:17:03: hjhjhjs 
+error: 04-26-2022 13:17:28: hjhjhjs 
+error: 04-26-2022 13:21:51: hjhjhjs 
+error: 04-26-2022 13:22:39: hjhjhjs 
+error: 04-26-2022 13:23:26: hjhjhjs 
+error: 04-26-2022 13:25:19: ordersModel is not defined 
+error: 04-26-2022 13:25:54: ordersModel is not defined 
+error: 04-26-2022 13:26:06: ordersModel is not defined 
+error: 04-26-2022 13:26:53: hjhjhjs 
+error: 04-26-2022 13:29:02: hjhjhjs 
+error: 04-26-2022 13:33:21: hjhjhjs 
+error: 04-26-2022 13:33:40: ordersModel is not defined 
+error: 04-26-2022 13:34:31: hjhjhjs 
+error: 04-26-2022 13:35:56: hjhjhjs 
+error: 04-26-2022 13:36:28: hjhjhjs 
+error: 04-26-2022 13:37:07: hjhjhjs 
+error: 04-26-2022 13:37:32: hjhjhjs 
+error: 04-26-2022 13:38:00: hjhjhjs 
+error: 04-26-2022 13:38:38: hjhjhjs 
+error: 04-26-2022 13:38:53: category validation failed: name: Path `name` is required. 
+error: 04-26-2022 13:42:20: hjhjhjs 
+error: 04-26-2022 13:43:08: hjhjhjs 
+error: 04-26-2022 13:51:39: hjhjhjs 
+error: 04-26-2022 13:53:08: hjhjhjs 
+error: 04-26-2022 14:04:44: hjhjhjs 
+error: 04-26-2022 14:05:09: hjhjhjs 
+error: 04-26-2022 14:05:56: hjhjhjs 
+error: 04-26-2022 14:06:32: hjhjhjs 
+error: 04-26-2022 14:07:58: ordersModel is not defined 
+error: 04-26-2022 14:08:42: ordersModel is not defined 
+error: 04-26-2022 14:09:28: hjhjhjs 
+error: 04-26-2022 14:12:34: hjhjhjs 
+error: 04-26-2022 14:14:33: hjhjhjs 
+error: 04-26-2022 14:15:04: hjhjhjs 
+error: 04-26-2022 14:17:00: hjhjhjs 
+error: 04-26-2022 14:17:34: hjhjhjs 
+error: 04-26-2022 14:18:56: hjhjhjs 
+error: 04-26-2022 14:23:22: hjhjhjs 
+error: 04-26-2022 14:24:32: hjhjhjs 
+error: 04-26-2022 14:26:49: hjhjhjs 
+error: 04-26-2022 14:27:35: hjhjhjs 
+error: 04-26-2022 14:28:05: hjhjhjs 
+error: 04-26-2022 14:28:18: hjhjhjs 
+error: 04-26-2022 14:28:54: hjhjhjs 
+error: 04-26-2022 14:29:51: hjhjhjs 
+error: 04-26-2022 14:40:11: hjhjhjs 
+error: 04-26-2022 14:41:07: hjhjhjs 
+error: 04-26-2022 14:41:37: hjhjhjs 
+error: 04-26-2022 14:43:05: hjhjhjs 
+error: 04-26-2022 14:46:23: hjhjhjs 
+error: 04-26-2022 14:46:45: hjhjhjs 
+error: 04-26-2022 14:47:24: hjhjhjs 
+error: 04-26-2022 14:47:37: hjhjhjs 
+error: 04-26-2022 14:51:46: hjhjhjs 
+error: 04-26-2022 14:52:34: hjhjhjs 
+error: 04-26-2022 14:53:04: hjhjhjs 
+error: 04-26-2022 14:54:07: hjhjhjs 
+error: 04-26-2022 14:54:43: Schema hasn't been registered for model "User".
+Use mongoose.model(name, schema) 
+error: 04-26-2022 14:56:51: hjhjhjs 
+error: 04-26-2022 14:56:53: Schema hasn't been registered for model "User".
+Use mongoose.model(name, schema) 
+error: 04-26-2022 14:57:56: hjhjhjs 
+error: 04-26-2022 14:58:24: hjhjhjs 
+error: 04-26-2022 14:59:07: hjhjhjs 
+error: 04-26-2022 15:00:35: hjhjhjs 
+error: 04-26-2022 15:00:44: Schema hasn't been registered for model "User".
+Use mongoose.model(name, schema) 
+error: 04-26-2022 15:01:25: hjhjhjs 
+error: 04-26-2022 15:18:08: hjhjhjs 
+error: 04-26-2022 15:18:59: hjhjhjs 
+error: 04-26-2022 15:19:25: hjhjhjs 
+error: 04-26-2022 15:40:01: hjhjhjs 
+error: 04-26-2022 15:43:14: hjhjhjs 
+error: 04-26-2022 15:44:32: hjhjhjs 
+error: 04-26-2022 15:45:16: hjhjhjs 
+error: 04-26-2022 15:46:43: hjhjhjs 
+error: 04-26-2022 15:47:26: hjhjhjs 
+error: 04-26-2022 15:48:40: hjhjhjs 
+error: 04-26-2022 15:48:42: Cannot read properties of null (reading 'name') 
+error: 04-26-2022 15:50:28: Cannot read properties of null (reading 'categoryId') 
+error: 04-26-2022 15:50:55: hjhjhjs 
+error: 04-26-2022 15:51:34: hjhjhjs 
+error: 04-26-2022 15:53:29: hjhjhjs 
+error: 04-26-2022 15:57:00: hjhjhjs 
+error: 04-26-2022 15:57:30: hjhjhjs 
+error: 04-26-2022 15:58:31: hjhjhjs 
+error: 04-26-2022 15:59:43: hjhjhjs 
+error: 04-26-2022 16:04:40: hjhjhjs 
+error: 04-26-2022 16:05:06: hjhjhjs 
+error: 04-26-2022 16:06:09: hjhjhjs 
+error: 04-26-2022 16:07:38: hjhjhjs 
+error: 04-26-2022 16:14:53: hjhjhjs 
+error: 04-26-2022 16:16:12: hjhjhjs 
+error: 04-26-2022 16:17:59: hjhjhjs 
+error: 04-26-2022 16:18:51: hjhjhjs 
+error: 04-26-2022 16:19:06: hjhjhjs 
+error: 04-26-2022 16:20:06: hjhjhjs 
+error: 04-26-2022 16:24:12: hjhjhjs 
+error: 04-26-2022 16:25:14: hjhjhjs 
+error: 04-26-2022 16:25:44: hjhjhjs 
+error: 04-26-2022 16:26:14: hjhjhjs 
+error: 04-26-2022 16:27:01: hjhjhjs 
+error: 04-26-2022 16:35:52: hjhjhjs 
+error: 04-26-2022 16:39:29: hjhjhjs 
+error: 04-26-2022 16:40:11: hjhjhjs 
+error: 04-26-2022 16:43:35: hjhjhjs 
+error: 04-26-2022 16:44:31: hjhjhjs 
+error: 04-26-2022 16:45:33: hjhjhjs 
+error: 04-26-2022 16:49:20: hjhjhjs 
+error: 04-26-2022 16:51:34: hjhjhjs 
+error: 04-27-2022 08:36:17: hjhjhjs 
+error: 04-27-2022 08:41:33: hjhjhjs 
+error: 04-27-2022 08:43:04: hjhjhjs 
+error: 04-27-2022 08:43:48: hjhjhjs 
+error: 04-27-2022 08:44:22: hjhjhjs 
+error: 04-27-2022 08:52:30: hjhjhjs 
+error: 04-27-2022 08:54:39: hjhjhjs 
+error: 04-27-2022 08:55:00: hjhjhjs 
+error: 04-27-2022 08:55:24: hjhjhjs 
+error: 04-27-2022 08:55:48: hjhjhjs 
+error: 04-27-2022 08:59:08: hjhjhjs 
+error: 04-27-2022 08:59:39: hjhjhjs 
+error: 04-27-2022 09:00:08: hjhjhjs 
+error: 04-27-2022 09:00:36: hjhjhjs 
+error: 04-27-2022 09:02:06: hjhjhjs 
+error: 04-27-2022 09:05:26: categoryModel is not defined 
+error: 04-27-2022 09:06:34: categoryModel is not defined 
+error: 04-27-2022 09:07:23: hjhjhjs 
+error: 04-27-2022 09:08:01: hjhjhjs 
+error: 04-27-2022 09:08:49: hjhjhjs 
+error: 04-27-2022 09:09:39: hjhjhjs 
+error: 04-27-2022 09:11:22: hjhjhjs 
+error: 04-27-2022 09:13:05: hjhjhjs 
+error: 04-27-2022 09:14:34: hjhjhjs 
+error: 04-27-2022 09:16:08: hjhjhjs 
+error: 04-27-2022 09:18:28: hjhjhjs 
+error: 04-27-2022 09:21:40: hjhjhjs 
+error: 04-27-2022 09:22:22: hjhjhjs 
+error: 04-27-2022 09:22:38: hjhjhjs 
+error: 04-27-2022 09:25:57: hjhjhjs 
+error: 04-27-2022 11:08:07: hjhjhjs 
+error: 04-27-2022 11:11:02: hjhjhjs 
+error: 04-27-2022 11:11:21: Cannot populate path `categoryId` because it is not in your schema. Set the `strictPopulate` option to false to override. 
+error: 04-27-2022 11:11:44: hjhjhjs 
+error: 04-27-2022 11:18:43: hjhjhjs 
+error: 04-27-2022 11:23:09: hjhjhjs 
+error: 04-27-2022 11:29:17: hjhjhjs 
+error: 04-27-2022 11:30:09: hjhjhjs 
+error: 04-27-2022 11:30:22: hjhjhjs 
+error: 04-27-2022 11:32:26: hjhjhjs 
+error: 04-27-2022 11:34:18: hjhjhjs 
+error: 04-27-2022 11:34:29: hjhjhjs 
+error: 04-27-2022 11:36:35: hjhjhjs 
+error: 04-27-2022 11:38:19: hjhjhjs 
+error: 04-27-2022 11:40:07: hjhjhjs 
+error: 04-27-2022 11:44:26: hjhjhjs 
+error: 04-27-2022 11:48:21: hjhjhjs 
+error: 04-27-2022 11:48:40: hjhjhjs 
+error: 04-27-2022 11:49:23: hjhjhjs 
+error: 04-27-2022 11:49:40: hjhjhjs 
+error: 04-27-2022 11:50:14: hjhjhjs 
+error: 04-27-2022 11:50:29: hjhjhjs 
+error: 04-27-2022 12:14:13: hjhjhjs 
+error: 04-27-2022 12:14:33: hjhjhjs 
+error: 04-27-2022 12:15:23: hjhjhjs 
+error: 04-27-2022 12:15:56: hjhjhjs 
+error: 04-27-2022 12:17:02: hjhjhjs 
+error: 04-27-2022 12:17:41: hjhjhjs 
+error: 04-27-2022 12:18:19: hjhjhjs 
+error: 04-27-2022 12:33:20: hjhjhjs 
+error: 04-27-2022 12:34:12: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer 
+error: 04-27-2022 12:36:00: hjhjhjs 
+error: 04-27-2022 12:36:34: hjhjhjs 
+error: 04-27-2022 12:37:53: hjhjhjs 
+error: 04-27-2022 12:39:02: hjhjhjs 
+error: 04-27-2022 12:40:02: hjhjhjs 
+error: 04-27-2022 13:44:43: hjhjhjs 
+error: 04-27-2022 13:45:27: name is not defined 
+error: 04-27-2022 13:46:00: hjhjhjs 
+error: 04-27-2022 13:47:30: hjhjhjs 
+error: 04-27-2022 13:47:43: Cannot populate path `categoryId` because it is not in your schema. Set the `strictPopulate` option to false to override. 
+error: 04-27-2022 13:48:22: hjhjhjs 
+error: 04-27-2022 13:50:22: hjhjhjs 
+error: 04-27-2022 13:50:41: hjhjhjs 
+error: 04-27-2022 13:51:35: hjhjhjs 
+error: 04-27-2022 14:19:38: hjhjhjs 
+error: 04-27-2022 14:30:10: hjhjhjs 
+error: 04-27-2022 14:31:43: hjhjhjs 
+error: 04-27-2022 14:32:33: hjhjhjs 
+error: 04-27-2022 15:12:46: hjhjhjs 
+error: 04-27-2022 15:13:05: hjhjhjs 
+error: 04-27-2022 15:15:00: hjhjhjs 
+error: 04-27-2022 15:20:06: hjhjhjs 
+error: 04-27-2022 15:20:16: hjhjhjs 
+error: 04-27-2022 15:22:55: hjhjhjs 
+error: 04-27-2022 15:23:18: hjhjhjs 
+error: 04-27-2022 15:26:17: hjhjhjs 
+error: 04-27-2022 15:28:16: hjhjhjs 
+error: 04-27-2022 15:28:23: Schema hasn't been registered for model "product".
+Use mongoose.model(name, schema) 
+error: 04-27-2022 15:31:18: hjhjhjs 
+error: 04-27-2022 15:31:21: Schema hasn't been registered for model "product".
+Use mongoose.model(name, schema) 
+error: 04-27-2022 15:31:22: Schema hasn't been registered for model "product".
+Use mongoose.model(name, schema) 
+error: 04-27-2022 15:31:23: Schema hasn't been registered for model "product".
+Use mongoose.model(name, schema) 
+error: 04-27-2022 15:31:48: hjhjhjs 
+error: 04-27-2022 15:33:34: hjhjhjs 
+error: 04-27-2022 15:33:48: hjhjhjs 
+error: 04-27-2022 15:35:12: hjhjhjs 
+error: 04-27-2022 15:35:14: Schema hasn't been registered for model "products".
+Use mongoose.model(name, schema) 
+error: 04-27-2022 15:35:15: Schema hasn't been registered for model "products".
+Use mongoose.model(name, schema) 
+error: 04-27-2022 15:36:11: hjhjhjs 
+error: 04-27-2022 15:36:26: hjhjhjs 
+error: 04-27-2022 15:38:54: hjhjhjs 
+error: 04-27-2022 15:39:14: Schema hasn't been registered for model "Category".
+Use mongoose.model(name, schema) 
+error: 04-27-2022 15:39:41: hjhjhjs 
+error: 04-27-2022 15:44:11: hjhjhjs 
+error: 04-27-2022 15:44:24: hjhjhjs 
+error: 04-27-2022 15:44:46: hjhjhjs 
+error: 04-27-2022 15:47:17: hjhjhjs 
+error: 04-27-2022 15:48:25: hjhjhjs 
+error: 04-27-2022 15:49:19: hjhjhjs 
+error: 04-27-2022 15:49:29: hjhjhjs 
+error: 04-27-2022 15:57:17: hjhjhjs 
+error: 04-27-2022 15:58:54: hjhjhjs 
+error: 04-27-2022 15:59:26: hjhjhjs 
+error: 04-27-2022 16:00:18: hjhjhjs 
+error: 04-27-2022 16:00:52: hjhjhjs 
+error: 04-27-2022 16:01:43: hjhjhjs 
+error: 04-27-2022 16:02:58: hjhjhjs 
+error: 04-27-2022 16:03:32: hjhjhjs 
+error: 04-27-2022 16:07:53: hjhjhjs 
+error: 04-27-2022 16:12:35: hjhjhjs 
+error: 04-27-2022 16:18:16: hjhjhjs 
+error: 04-27-2022 16:22:34: hjhjhjs 
+error: 04-27-2022 16:23:15: hjhjhjs 
+error: 04-27-2022 16:23:54: hjhjhjs 
+error: 04-27-2022 16:24:58: hjhjhjs 
+error: 04-27-2022 16:28:13: hjhjhjs 
+error: 04-27-2022 16:28:50: hjhjhjs 
+error: 04-27-2022 16:30:08: hjhjhjs 
+error: 04-27-2022 16:30:36: hjhjhjs 
+error: 04-27-2022 16:33:25: hjhjhjs 
+error: 04-27-2022 16:35:05: hjhjhjs 
+error: 04-27-2022 16:36:16: hjhjhjs 
+error: 04-27-2022 16:36:56: hjhjhjs 
+error: 04-27-2022 16:48:50: hjhjhjs 
+error: 04-27-2022 16:52:25: hjhjhjs 
+error: 04-27-2022 16:53:07: hjhjhjs 
+error: 04-27-2022 16:54:13: hjhjhjs 
+error: 04-27-2022 16:55:29: hjhjhjs 
+error: 04-27-2022 16:56:01: hjhjhjs 
+error: 04-27-2022 16:56:51: hjhjhjs 
+error: 04-27-2022 16:58:41: hjhjhjs 
+error: 04-27-2022 17:01:50: hjhjhjs 
+error: 04-27-2022 17:05:51: hjhjhjs 
+error: 04-27-2022 17:06:09: hjhjhjs 
+error: 04-27-2022 17:08:07: hjhjhjs 
+error: 04-27-2022 17:09:18: hjhjhjs 
+error: 04-27-2022 17:09:56: hjhjhjs 
+error: 04-27-2022 17:11:43: hjhjhjs 
+error: 04-27-2022 17:11:59: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer 
+error: 04-27-2022 17:12:51: hjhjhjs 
+error: 04-27-2022 17:15:25: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer 
+error: 04-27-2022 17:15:53: hjhjhjs 
+error: 04-27-2022 17:18:18: hjhjhjs 
+error: 04-27-2022 17:19:47: hjhjhjs 
+error: 04-27-2022 17:22:34: hjhjhjs 
+error: 04-27-2022 17:22:58: hjhjhjs 
+error: 04-27-2022 17:25:41: hjhjhjs 
+error: 04-27-2022 17:28:13: hjhjhjs 
+error: 04-27-2022 17:29:10: hjhjhjs 
+error: 04-27-2022 17:33:29: hjhjhjs 
+error: 04-27-2022 17:34:54: hjhjhjs 
+error: 05-01-2022 17:51:32: hjhjhjs 
+error: 05-02-2022 09:24:56: hjhjhjs 
+error: 05-02-2022 09:25:48: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer 
+error: 05-02-2022 11:22:37.052: hjhjhjs 
+error: 05-02-2022 11:23:14.129: hjhjhjs 
+error: 05-02-2022 12:51:25.355: hjhjhjs 
+error: 05-02-2022 12:51:35.965: Cannot create property 'Symbol(level)' on string 'BEFORE DB' 
+error: 05-02-2022 12:52:25.879: hjhjhjs 
+info: 05-02-2022 12:52:25.887: Hello server, we are running on 3009 
+error: 05-02-2022 12:52:51.067: hjhjhjs 
+info: 05-02-2022 12:52:51.077: Hello server, we are running on 3009 
+error: 05-02-2022 12:52:57.607: Cannot create property 'Symbol(level)' on string 'before DB' 
+error: 05-02-2022 12:53:24.875: hjhjhjs 
+error: 05-02-2022 12:54:51.102: hjhjhjs 
+error: 05-02-2022 12:57:06.278: hjhjhjs 
+info: 05-02-2022 12:57:06.287: Hello server, we are running on 3009 
+info: 05-02-2022 12:57:08.265: before db 
+info: 05-02-2022 12:57:08.294: after db 
+error: 05-02-2022 12:57:48.523: hjhjhjs 
+error: 05-02-2022 12:58:34.382: hjhjhjs 
+info: 05-02-2022 12:58:34.394: Hello server, we are running on 3009 
+info: 05-02-2022 12:58:36.865: before db 
+info: 05-02-2022 12:58:36.892: after db 
+error: 05-02-2022 13:00:02.361: hjhjhjs 
+error: 05-02-2022 13:00:02.361: hjhjhjs 
+info: 05-02-2022 13:00:02.371: Hello server, we are running on 3009 
+info: 05-02-2022 13:00:07.957: before db 
+info: 05-02-2022 13:00:07.987: after db 
+error: 05-02-2022 13:00:54.533: hjhjhjs 
+error: 05-02-2022 13:00:54.533: hjhjhjs 
+info: 05-02-2022 13:00:54.542: Hello server, we are running on 3009 
+info: 05-02-2022 13:00:56.502: before db 
+info: 05-02-2022 13:00:56.530: after db 
+error: 05-02-2022 13:01:29.896: hjhjhjs 
+error: 05-02-2022 13:01:29.896: hjhjhjs 
+info: 05-02-2022 13:01:29.905: Hello server, we are running on 3009 
+info: 05-02-2022 13:01:48.939: before db 
+info: 05-02-2022 13:01:48.967: after db 
+error: 05-02-2022 13:13:46.446: Unexpected token , in JSON at position 370 
+error: 05-02-2022 13:13:46.446: Unexpected token , in JSON at position 370 
+error: 05-02-2022 13:14:56.287: hjhjhjs 
+error: 05-02-2022 13:14:56.287: hjhjhjs 
+info: 05-02-2022 13:14:56.295: Hello server, we are running on 3009 
+error: 05-02-2022 13:15:00.569: Unexpected token , in JSON at position 370 
+error: 05-02-2022 13:15:00.569: Unexpected token , in JSON at position 370 
+error: 05-02-2022 13:37:27.186: hjhjhjs 
+error: 05-02-2022 13:37:27.186: hjhjhjs 
+info: 05-02-2022 13:37:27.194: Hello server, we are running on 3009 
+error: 05-02-2022 13:38:25.539: hjhjhjs 
+error: 05-02-2022 13:38:25.539: hjhjhjs 
+info: 05-02-2022 13:38:25.548: Hello server, we are running on 3009 
+error: 05-02-2022 13:39:06.335: hjhjhjs 
+error: 05-02-2022 13:39:06.335: hjhjhjs 
+info: 05-02-2022 13:39:06.344: Hello server, we are running on 3009 
+error: 05-02-2022 13:40:17.802: hjhjhjs 
+error: 05-02-2022 13:40:17.802: hjhjhjs 
+info: 05-02-2022 13:40:17.810: Hello server, we are running on 3009 
+error: 05-02-2022 14:46:58.323: hjhjhjs 
+error: 05-02-2022 14:46:58.323: hjhjhjs 
+info: 05-02-2022 14:46:58.332: Hello server, we are running on 3009 
+error: 05-02-2022 14:48:23.935: hjhjhjs 
+error: 05-02-2022 14:48:23.935: hjhjhjs 
+info: 05-02-2022 14:48:23.943: Hello server, we are running on 3009 
+error: 05-02-2022 14:49:11.531: hjhjhjs 
+error: 05-02-2022 14:49:11.531: hjhjhjs 
+info: 05-02-2022 14:49:11.539: Hello server, we are running on 3009 
+error: 05-02-2022 14:49:34.625: hjhjhjs 
+error: 05-02-2022 14:49:34.625: hjhjhjs 
+info: 05-02-2022 14:49:34.634: Hello server, we are running on 3009 
+error: 05-02-2022 14:49:52.957: hjhjhjs 
+error: 05-02-2022 14:49:52.957: hjhjhjs 
+info: 05-02-2022 14:49:52.966: Hello server, we are running on 3009 
+error: 05-02-2022 14:54:31.140: hjhjhjs 
+error: 05-02-2022 14:54:31.140: hjhjhjs 
+info: 05-02-2022 14:54:31.149: Hello server, we are running on 3009 
+error: 05-02-2022 14:56:07.126: hjhjhjs 
+error: 05-02-2022 14:56:07.126: hjhjhjs 
+info: 05-02-2022 14:56:07.135: Hello server, we are running on 3009 
+error: 05-02-2022 15:00:56.796: hjhjhjs 
+error: 05-02-2022 15:00:56.796: hjhjhjs 
+info: 05-02-2022 15:00:56.804: Hello server, we are running on 3009 
+error: 05-02-2022 15:20:27.636: hjhjhjs 
+error: 05-02-2022 15:20:27.636: hjhjhjs 
+info: 05-02-2022 15:20:27.649: Hello server, we are running on 3009 
+error: 05-02-2022 15:26:07.211: hjhjhjs 
+error: 05-02-2022 15:26:07.211: hjhjhjs 
+info: 05-02-2022 15:26:07.220: Hello server, we are running on 3009 
+error: 05-02-2022 15:29:07.560: hjhjhjs 
+error: 05-02-2022 15:29:07.560: hjhjhjs 
+info: 05-02-2022 15:29:07.570: Hello server, we are running on 3009 
+error: 05-02-2022 15:32:06.517: hjhjhjs 
+error: 05-02-2022 15:32:06.517: hjhjhjs 
+info: 05-02-2022 15:32:06.526: Hello server, we are running on 3009 
+error: 05-02-2022 15:32:42.051: user validation failed: fullName: Path `fullName` (`aaaa`) is shorter than the minimum allowed length (5). 
+error: 05-02-2022 15:32:42.051: user validation failed: fullName: Path `fullName` (`aaaa`) is shorter than the minimum allowed length (5). 
+error: 05-02-2022 15:33:05.012: user validation failed: fullName: Path `fullName` (`aaaa`) is shorter than the minimum allowed length (5). 
+error: 05-02-2022 15:33:05.012: user validation failed: fullName: Path `fullName` (`aaaa`) is shorter than the minimum allowed length (5). 
+error: 05-02-2022 15:35:02.160: hjhjhjs 
+error: 05-02-2022 15:35:02.160: hjhjhjs 
+info: 05-02-2022 15:35:02.168: Hello server, we are running on 3009 
+error: 05-02-2022 15:37:37.089: hjhjhjs 
+error: 05-02-2022 15:37:37.089: hjhjhjs 
+info: 05-02-2022 15:37:37.097: Hello server, we are running on 3009 
+error: 05-02-2022 15:38:24.613: hjhjhjs 
+error: 05-02-2022 15:38:24.613: hjhjhjs 
+info: 05-02-2022 15:38:24.621: Hello server, we are running on 3009 
+error: 05-02-2022 15:39:21.832: hjhjhjs 
+error: 05-02-2022 15:39:21.832: hjhjhjs 
+info: 05-02-2022 15:39:21.841: Hello server, we are running on 3009 
+error: 05-02-2022 15:42:35.599: hjhjhjs 
+error: 05-02-2022 15:42:35.599: hjhjhjs 
+info: 05-02-2022 15:42:35.607: Hello server, we are running on 3009 
+error: 05-02-2022 15:45:45.460: hjhjhjs 
+error: 05-02-2022 15:45:45.460: hjhjhjs 
+info: 05-02-2022 15:45:45.468: Hello server, we are running on 3009 
+error: 05-02-2022 16:10:57.243: hjhjhjs 
+error: 05-02-2022 16:10:57.243: hjhjhjs 
+info: 05-02-2022 16:10:57.251: Hello server, we are running on 3009 
+error: 05-02-2022 16:11:38.858: hjhjhjs 
+error: 05-02-2022 16:11:38.858: hjhjhjs 
+info: 05-02-2022 16:11:38.866: Hello server, we are running on 3009 
+error: 05-02-2022 16:12:10.974: hjhjhjs 
+error: 05-02-2022 16:12:10.974: hjhjhjs 
+info: 05-02-2022 16:12:10.982: Hello server, we are running on 3009 
+error: 05-02-2022 16:13:31.648: hjhjhjs 
+error: 05-02-2022 16:13:31.648: hjhjhjs 
+info: 05-02-2022 16:13:31.656: Hello server, we are running on 3009 
+error: 05-02-2022 16:14:24.696: hjhjhjs 
+error: 05-02-2022 16:14:24.696: hjhjhjs 
+info: 05-02-2022 16:14:24.704: Hello server, we are running on 3009 
+error: 05-02-2022 16:15:46.054: hjhjhjs 
+error: 05-02-2022 16:15:46.054: hjhjhjs 
+info: 05-02-2022 16:15:46.063: Hello server, we are running on 3009 
+error: 05-02-2022 16:20:38.551: hjhjhjs 
+error: 05-02-2022 16:20:38.551: hjhjhjs 
+info: 05-02-2022 16:20:38.560: Hello server, we are running on 3009 
+error: 05-02-2022 16:21:46.527: hjhjhjs 
+error: 05-02-2022 16:21:46.527: hjhjhjs 
+info: 05-02-2022 16:21:46.535: Hello server, we are running on 3009 
+error: 05-02-2022 16:25:09.887: hjhjhjs 
+error: 05-02-2022 16:25:09.887: hjhjhjs 
+info: 05-02-2022 16:25:09.897: Hello server, we are running on 3009 
+error: 05-02-2022 16:27:05.729: hjhjhjs 
+error: 05-02-2022 16:27:05.729: hjhjhjs 
+info: 05-02-2022 16:27:05.738: Hello server, we are running on 3009 
+error: 05-02-2022 16:28:02.131: hjhjhjs 
+error: 05-02-2022 16:28:02.131: hjhjhjs 
+info: 05-02-2022 16:28:02.141: Hello server, we are running on 3009 
+error: 05-02-2022 16:32:15.334: hjhjhjs 
+error: 05-02-2022 16:32:15.334: hjhjhjs 
+info: 05-02-2022 16:32:15.344: Hello server, we are running on 3009 
+error: 05-02-2022 16:37:16.338: hjhjhjs 
+error: 05-02-2022 16:37:16.338: hjhjhjs 
+info: 05-02-2022 16:37:16.348: Hello server, we are running on 3009 
+error: 05-02-2022 16:38:12.754: hjhjhjs 
+error: 05-02-2022 16:38:12.754: hjhjhjs 
+info: 05-02-2022 16:38:12.763: Hello server, we are running on 3009 
+error: 05-02-2022 16:41:38.449: Cannot create property 'Symbol(level)' on string 'BEFORE DB' 
+error: 05-02-2022 16:41:38.449: Cannot create property 'Symbol(level)' on string 'BEFORE DB' 
+error: 05-02-2022 16:41:49.833: Cannot create property 'Symbol(level)' on string 'BEFORE DB' 
+error: 05-02-2022 16:41:49.833: Cannot create property 'Symbol(level)' on string 'BEFORE DB' 
+error: 05-02-2022 16:42:23.538: Cannot create property 'Symbol(level)' on string 'BEFORE DB' 
+error: 05-02-2022 16:42:23.538: Cannot create property 'Symbol(level)' on string 'BEFORE DB' 
+error: 05-02-2022 16:42:42.267: Cannot create property 'Symbol(level)' on string 'BEFORE DB' 
+error: 05-02-2022 16:42:42.267: Cannot create property 'Symbol(level)' on string 'BEFORE DB' 
+error: 05-02-2022 16:44:36.861: hjhjhjs 
+error: 05-02-2022 16:44:36.861: hjhjhjs 
+info: 05-02-2022 16:44:36.870: Hello server, we are running on 3009 
+error: 05-02-2022 16:45:39.911: hjhjhjs 
+error: 05-02-2022 16:45:39.911: hjhjhjs 
+info: 05-02-2022 16:45:39.920: Hello server, we are running on 3009 
+error: 05-02-2022 16:46:02.843: Cannot create property 'Symbol(level)' on string 'BEFORE DB' 
+error: 05-02-2022 16:46:02.843: Cannot create property 'Symbol(level)' on string 'BEFORE DB' 
+error: 05-02-2022 16:47:27.338: Cannot create property 'Symbol(level)' on string 'BEFORE DB' 
+error: 05-02-2022 16:47:27.338: Cannot create property 'Symbol(level)' on string 'BEFORE DB' 
+error: 05-02-2022 16:49:10.915: hjhjhjs 
+error: 05-02-2022 16:49:10.915: hjhjhjs 
+info: 05-02-2022 16:49:10.923: Hello server, we are running on 3009 
+error: 05-02-2022 16:49:27.967: Cannot create property 'Symbol(level)' on string 'BEFORE DB' 
+error: 05-02-2022 16:49:27.967: Cannot create property 'Symbol(level)' on string 'BEFORE DB' 
+info: 05-02-2022 16:51:20.181: before db 
+info: 05-02-2022 16:51:20.189: after db 
+error: 05-02-2022 16:53:14.538: hjhjhjs 
+error: 05-02-2022 16:53:14.538: hjhjhjs 
+info: 05-02-2022 16:53:14.547: Hello server, we are running on 3009 
+error: 05-02-2022 16:53:51.373: hjhjhjs 
+error: 05-02-2022 16:53:51.373: hjhjhjs 
+info: 05-02-2022 16:53:51.382: Hello server, we are running on 3009 
+error: 05-02-2022 16:54:46.959: hjhjhjs 
+error: 05-02-2022 16:54:46.959: hjhjhjs 
+info: 05-02-2022 16:54:46.969: Hello server, we are running on 3009 
+error: 05-02-2022 16:55:02.900: hjhjhjs 
+error: 05-02-2022 16:55:02.900: hjhjhjs 
+info: 05-02-2022 16:55:02.908: Hello server, we are running on 3009 
+error: 05-02-2022 16:56:20.732: hjhjhjs 
+error: 05-02-2022 16:56:20.732: hjhjhjs 
+info: 05-02-2022 16:56:20.740: Hello server, we are running on 3009 
+error: 05-02-2022 16:57:33.362: hjhjhjs 
+error: 05-02-2022 16:57:33.362: hjhjhjs 
+info: 05-02-2022 16:57:33.370: Hello server, we are running on 3009 
+error: 05-02-2022 16:58:21.913: hjhjhjs 
+error: 05-02-2022 16:58:21.913: hjhjhjs 
+info: 05-02-2022 16:58:21.922: Hello server, we are running on 3009 
+error: 05-02-2022 16:59:13.371: hjhjhjs 
+error: 05-02-2022 16:59:13.371: hjhjhjs 
+info: 05-02-2022 16:59:13.382: Hello server, we are running on 3009 
+error: 05-02-2022 17:00:10.985: hjhjhjs 
+error: 05-02-2022 17:00:10.985: hjhjhjs 
+info: 05-02-2022 17:00:10.993: Hello server, we are running on 3009 
+error: 05-02-2022 17:00:47.055: Cannot create property 'Symbol(level)' on string 'BEFORE DB' 
+error: 05-02-2022 17:00:47.055: Cannot create property 'Symbol(level)' on string 'BEFORE DB' 
+error: 05-02-2022 17:01:42.286: hjhjhjs 
+error: 05-02-2022 17:01:42.286: hjhjhjs 
+info: 05-02-2022 17:01:42.294: Hello server, we are running on 3009 
+error: 05-02-2022 17:01:51.809: Cannot create property 'Symbol(level)' on string 'BEFORE DB' 
+error: 05-02-2022 17:01:51.809: Cannot create property 'Symbol(level)' on string 'BEFORE DB' 
+error: 05-02-2022 17:02:53.580: hjhjhjs 
+error: 05-02-2022 17:02:53.580: hjhjhjs 
+info: 05-02-2022 17:02:53.589: Hello server, we are running on 3009 
+error: 05-02-2022 17:05:07.138: hjhjhjs 
+error: 05-02-2022 17:05:07.138: hjhjhjs 
+info: 05-02-2022 17:05:07.146: Hello server, we are running on 3009 
+error: 05-02-2022 17:08:46.557: hjhjhjs 
+error: 05-02-2022 17:08:46.557: hjhjhjs 
+info: 05-02-2022 17:08:46.567: Hello server, we are running on 3009 
+error: 05-02-2022 17:10:05.294: hjhjhjs 
+error: 05-02-2022 17:10:05.294: hjhjhjs 
+info: 05-02-2022 17:10:05.305: Hello server, we are running on 3009 
+error: 05-02-2022 17:10:59.312: hjhjhjs 
+error: 05-02-2022 17:10:59.312: hjhjhjs 
+info: 05-02-2022 17:10:59.320: Hello server, we are running on 3009 
+error: 05-02-2022 17:13:09.213: hjhjhjs 
+error: 05-02-2022 17:13:09.213: hjhjhjs 
+info: 05-02-2022 17:13:09.221: Hello server, we are running on 3009 
+error: 05-02-2022 17:23:16.718: hjhjhjs 
+error: 05-02-2022 17:23:16.718: hjhjhjs 
+info: 05-02-2022 17:23:16.727: Hello server, we are running on 3009 
