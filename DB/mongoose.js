@@ -12,7 +12,6 @@ class MongooseClass {
 
     async connect() {
         const url = process.env.CONNECTION_STRING;
-        const DATABASE_NAME = process.env.DATABASE_NAME;
 
 //זה השורות שהוספתי כדי לחבר למוגואטלס
         // const uri = "mongodb+srv://yehuditCohen:<yehudit020302>@finallprojectus.m1aar.mongodb.net/?retryWrites=true&w=majority";

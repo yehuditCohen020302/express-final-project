@@ -6,7 +6,6 @@ const logger = require('../Log/logger');
 
 module.exports.getUser= async function (req, res, next) {
     try{
-        debugger
         const toget = await userModel.find();
         await res.send(toget);
     }
