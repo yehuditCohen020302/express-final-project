@@ -8,6 +8,7 @@ const path = require('path');
 const dotenv = require('dotenv');
 dotenv.config();
 
+
 // const { MongoClient } = require('mongodb');
 // const uri = "mongodb+srv://yehuditCohen:<yehudit020302>@finallprojectus.m1aar.mongodb.net/?retryWrites=true&w=majority";
 // const client = new MongoClient(uri, { useNewUrlParser: true, useUnifiedTopology: true });
@@ -19,6 +20,7 @@ db.connect();
 
 // app.use(express.static('Static'))
 app.use(express.json());
+
 
 
 const cors = require("cors");
@@ -47,7 +49,7 @@ app.use((req, res) => {
 // client.close();
 
 
-logger.error('error😳😵🥴');
-app.listen(port, () => logger.info(`Hello server, we are running on ${port}`))
+ logger.error('error😳😵🥴');
+ app.listen(port, () => logger.info(`Hello server, we are running on ${port}`))
 
 

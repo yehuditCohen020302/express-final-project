@@ -29,6 +29,7 @@ module.exports.getOneUser = async function (req, res, next) {
 
 module.exports.addUser = async function (req, res, next) {
     try {
+        // debugger
         console.log(req.body, "req.body");
         const { fullName, email, password, Address} = req.body;
         let data = new userModel({

@@ -35,6 +35,7 @@ const logConfiguration = {
     )
 
 }
+
 const logger = winston.createLogger(logConfiguration);
 module.exports = logger;
 // 'mongodb://srv1:27017/323812081yehudit&chani'
